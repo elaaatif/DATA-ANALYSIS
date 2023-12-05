@@ -22,7 +22,7 @@ Explore historical house price trends using the Federal Housing Finance Agency (
 
 ## Getting Started
 
-1. **Clone the Repository:**
+ **Clone the Repository:**
    ```bash
    git clone https://github.com/elaaatif/DATA-ANALYSIS.git
-s
+
