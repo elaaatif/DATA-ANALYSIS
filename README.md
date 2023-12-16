@@ -25,4 +25,9 @@ Explore historical house price trends using the Federal Housing Finance Agency (
  **Clone the Repository:**
    ```bash
    git clone https://github.com/elaaatif/DATA-ANALYSIS.git
-
+   ```
+**some screenshots of the presentation :**
+![image](https://github.com/elaaatif/DATA-ANALYSIS/assets/122917261/5bc78020-cc3c-4dc1-8010-002e98b95f03)
+![image](https://github.com/elaaatif/DATA-ANALYSIS/assets/122917261/5d3c4d19-f69d-4c29-a362-e50fad2b1be7)
+![image](https://github.com/elaaatif/DATA-ANALYSIS/assets/122917261/f64a458d-e2ce-4aa0-9bca-c2763c984255)
+![image](https://github.com/elaaatif/DATA-ANALYSIS/assets/122917261/ee8d9de8-a4f6-4f16-a39c-c6302d4ef13e)
